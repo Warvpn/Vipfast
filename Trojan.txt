@@ -1,1 +1,1 @@
-vless://6db9432e-1f6a-441d-b296-8f2e0bb75ae9@88.99.244.234:443?path=%2Fmehdyvl&security=tls&encryption=none&host=newrgav.eu-ggqrtyuigfhs.dopraxrocks.net&type=ws&sni=newrgav.eu-ggqrtyuigfhs.dopraxrocks.net#Hetzner+6+%F0%9F%87%A9%F0%9F%87%AA+vl
+trojan://5c6221e0-ea50-11ed-a769-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=warvpn#Telegram+%3A+WARVPN+30G+%F0%9F%94%A5
