@@ -1,4 +1,1 @@
-vless://74d57e21-f027-4d74-9e55-96506cf5bbbe@104.24.0.0:443?path=%2Fgb1vl.xservs.xyz%2Fvless&security=tls&encryption=none&host=warvpn.warvpn.workers.dev&type=ws&sni=warvpn.warvpn.workers.dev#UK1+%F0%9F%87%AC%F0%9F%87%A7+05-01
-U
-
-
+vless://6db9432e-1f6a-441d-b296-8f2e0bb75ae9@88.99.244.234:443?path=%2Fmehdyvl&security=tls&encryption=none&host=newrgav.eu-ggqrtyuigfhs.dopraxrocks.net&type=ws&sni=newrgav.eu-ggqrtyuigfhs.dopraxrocks.net#Hetzner+6+%F0%9F%87%A9%F0%9F%87%AA+vl
