@@ -1,0 +1,2 @@
+trojan://7fd0dc2e-9314-4594-94a3-74cb3739d12b@88.99.244.234:443?path=%2Ftrojan&security=tls&host=hetzner-4npek.eu-ggqrtyuigfhs.dopraxrocks.net&type=ws&sni=speedtest.net#Hetzner+5+%F0%9F%87%A9%F0%9F%87%AA+tr
+trojan://98005a80-edbf-11ed-82b4-1239d0255272@185.78.166.145:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#TH+%F0%9F%87%B9%F0%9F%87%AD+15G+R-IR
