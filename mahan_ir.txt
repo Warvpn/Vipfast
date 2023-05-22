@@ -1,2 +1,0 @@
-vless://6db9432e-1f6a-441d-b296-8f2e0bb75ae9@88.99.244.234:443?path=%2Fmehdyvl&security=tls&encryption=none&host=newrgav.eu-ggqrtyuigfhs.dopraxrocks.net&type=ws&sni=speedtest.net#Hetzner+6+%F0%9F%87%A9%F0%9F%87%AA+vl+%C2%AB+2+%C2%BB+%D8%A7%D8%B5%D9%84%DB%8C
-trojan://557f40e0-f2f1-11ed-8afb-1239d0255272@185.78.166.145:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#TH+%F0%9F%87%B9%F0%9F%87%AD+15G+R-IR+%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86
