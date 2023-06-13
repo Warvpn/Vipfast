@@ -1,2 +1,2 @@
 trojan://e7af8080-ffdb-11ed-9cfd-1239d0255272@179.61.251.158:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#WARVPN+%F0%9F%87%A9%F0%9F%87%AA+20G
-vless://6b0b1216-a46b-4e47-942c-429bf1385447@193.203.203.139:443?path=%2Fvless&security=tls&encryption=none&host=ca-v.sshmax.xyz&type=ws&sni=speedtest.net#WARVPN+%F0%9F%87%A8%F0%9F%87%A6
+vmess://eyJhZGQiOiI1MS4xNTguOTguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI4ZWM2MmRjZi05ZWFkLTQ4ZDYtYWZlYy00YWE0ZWQyNjRhOTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiV0FSVlBOIPCfh6vwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
