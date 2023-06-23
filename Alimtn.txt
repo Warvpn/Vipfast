@@ -1,4 +1,4 @@
-vless://5c42faf7-74ac-4ced-beb5-a69ddcfe0c05@104.21.61.43:443?path=%2Fvless%2F5c42faf7-74ac-4ced-beb5-a69ddcfe0c05%3Fef%3D2048&security=tls&encryption=none&host=flarevl.pages.dev&fp=randomized&type=ws&sni=flarevl.pages.dev#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%A9%F0%9F%87%AA
+trojan://33efa380-11a7-11ee-aab9-1239d0255272@185.78.166.145:443?security=tls&headerType=none&type=tcp&sni=newsong.ir#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%B9%F0%9F%87%AD
 vmess://eyJhZGQiOiIxMzAuMTYyLjQ3LjEyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGVuZ3Bhby5kZSIsImlkIjoiYjVmN2U5MzItZjczMC00YWQyLWI0MjUtNDA5NzdiOWRiMzMyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3pCTFBvdSIsInBvcnQiOiI2ODU0IiwicHMiOiLYs9ix2YjYsSAyIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6Im5ld3NvbmcuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://33efa380-11a7-11ee-aab9-1239d0255272@185.78.166.145:443?security=tls&headerType=none&type=tcp&sni=newsong.ir#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%B9%F0%9F%87%AD
-اعتبار تا 27 تیر - علیرضا صفری
+trojan://5c18f9c0-1138-11ee-9f7f-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
+اعتبار تا 27 تیر علیرضا
