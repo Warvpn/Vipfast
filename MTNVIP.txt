@@ -1,4 +1,4 @@
-trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiI1MS43Ny4xNC4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjE3OTIyMjMwLTM4ZWEtMTFlZS1iNzM1LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AVklQIiwicG9ydCI6IjQ0MyIsInBzIjoiVklQIPCfh6vwn4e3IDA1LTI4Iiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B8
 trojan://b9c3dff0-270f-11ee-a03d-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
 ایرانسل
