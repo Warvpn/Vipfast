@@ -1,0 +1,3 @@
+vmess://eyJhZGQiOiI1MS4xNTkuNTkuMTg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJlNWE3MGNmMC0zOTNmLTExZWUtYjUzMi0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNmp5Y2JkMnUiLCJwb3J0IjoiNDQzIiwicHMiOiLYs9ix2YjYsSAxIPCfh6vwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://3e563de0-3940-11ee-b911-1239d0255272@51.81.82.15:443?security=tls&headerType=none&type=tcp&sni=newsong.ir#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B8
+اعتبار تا 21 برج 6
