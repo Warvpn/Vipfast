@@ -1,6 +1,4 @@
-trojan://739f5520-295d-11ee-b7f0-1239d0255272@185.78.166.145:443?security=tls&headerType=none&type=tcp&sni=newsong.ir#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%B9%F0%9F%87%AD
-trojan://94cb7750-295d-11ee-9c1c-1239d0255272@us-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B2
-trojan://41e8c8e0-295d-11ee-8194-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
-vmess://eyJhZGQiOiIxNzEuMjIuMTE2LjU0IiwiYWlkIjoiNjQiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjkxMzE4MzE4NDIwIiwicG9ydCI6IjQ0MyIsInBzIjoi2LPYsdmI2LEg2b7YtNiq24zYqNin2YYg8J+HuvCfh7IiLCJzY3kiOiJhdXRvIiwic25pIjoic3BlZWR0ZXN0Lm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
-امیرعلی اعتبار تا 1402/06/01
+trojan://cd767880-4280-11ee-9c91-1239d0255272@us-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B2
+trojan://037e8960-4281-11ee-a267-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiIxNDIuNC4xMTAuMzgiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzEyMTAxNjA3MTAxNCIsInBvcnQiOiI0NDMiLCJwcyI6Itiz2LHZiNixINm+2LTYqtuM2KjYp9mGIPCfh7rwn4eyIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+امیرعلی اعتبار تا 1402/07/01
