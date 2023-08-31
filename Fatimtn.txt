@@ -1,8 +1,7 @@
-trojan://2adfa860-3772-11ee-b1d1-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%AB%F0%9F%87%B7
-trojan://6b2a90d0-3772-11ee-8fcf-1239d0255272@185.78.166.145:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%B9%F0%9F%87%AD
-trojan://b15341b0-3772-11ee-a63e-1239d0255272@us-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%BA%F0%9F%87%B2
-vmess://eyJhZGQiOiIxNzEuMjIuMTE2LjU0IiwiYWlkIjoiNjQiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjkxMzE4MzE4NDIwIiwicG9ydCI6IjQ0MyIsInBzIjoi2LPYsdmI2LEg2b7YtNiq24zYqNin2YYg8J+HuvCfh7IiLCJzY3kiOiJhdXRvIiwic25pIjoic3BlZWR0ZXN0Lm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://687369f0-47cb-11ee-b35f-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%AB%F0%9F%87%B7
+trojan://074c4170-47cc-11ee-8bea-1239d0255272@us-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B2
+vmess://eyJhZGQiOiIxMzAuMTYyLjQ3LjEyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiNWY3ZTkzMi1mNzMwLTRhZDItYjQyNS00MDk3N2I5ZGIzMzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvekJMUG91IiwicG9ydCI6IjY4NTQiLCJwcyI6Itiz2LHZiNixINm+2LTYqtuM2KjYp9mGIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-فاطمه اعتبار تا 1402/06/23 
+فاطمه اعتبار تا 1402/07/23 
 
 تمدید خودکار
