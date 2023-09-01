@@ -1,4 +1,4 @@
-trojan://687369f0-47cb-11ee-b35f-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%AB%F0%9F%87%B7
+trojan://d28b9320-48a0-11ee-9f74-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%AB%F0%9F%87%B7
 trojan://074c4170-47cc-11ee-8bea-1239d0255272@us-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B2
 vmess://eyJhZGQiOiIxMzAuMTYyLjQ3LjEyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiNWY3ZTkzMi1mNzMwLTRhZDItYjQyNS00MDk3N2I5ZGIzMzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvekJMUG91IiwicG9ydCI6IjY4NTQiLCJwcyI6Itiz2LHZiNixINm+2LTYqtuM2KjYp9mGIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
