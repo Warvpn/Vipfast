@@ -1,6 +1,5 @@
-trojan://f8228e00-3f2d-11ee-b1fc-1239d0255272@51.81.82.15:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%BA%F0%9F%87%B2
-trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%BA%F0%9F%87%B8
-trojan://44e95880-3f2d-11ee-a03f-1239d0255272@51.159.59.186:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
-trojan://8f89e6d0-48a0-11ee-b6d5-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+4+%F0%9F%87%A9%F0%9F%87%AA
+trojan://693f18d0-6443-11ee-8931-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
+trojan://4a2f9b50-6443-11ee-80cc-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+4+%F0%9F%87%A9%F0%9F%87%AA
+vless://785192dd-aa10-430f-a21a-53ce945d06a6@94.228.164.251:8443?type=grpc&serviceName=G4VPN&mode=multi&security=reality&fp=chrome&pbk=d7fYjSill63ZfrmhLSzF4VO2kF7tuOBDNy9uak85zx0&sni=www.speedtest.net&sid=e25e47da&spx=%2F#USER-Afshar
 
 MTN irancell
