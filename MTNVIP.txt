@@ -1,5 +1,4 @@
 trojan://693f18d0-6443-11ee-8931-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+3+%F0%9F%87%AB%F0%9F%87%B7
 trojan://4a2f9b50-6443-11ee-80cc-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+4+%F0%9F%87%A9%F0%9F%87%AA
-vless://785192dd-aa10-430f-a21a-53ce945d06a6@94.228.164.251:8443?type=grpc&serviceName=G4VPN&mode=multi&security=reality&fp=chrome&pbk=d7fYjSill63ZfrmhLSzF4VO2kF7tuOBDNy9uak85zx0&sni=www.speedtest.net&sid=e25e47da&spx=%2F#USER-Afshar
 
 MTN irancell
