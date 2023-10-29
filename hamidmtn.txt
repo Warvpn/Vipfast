@@ -1,4 +1,5 @@
-trojan://47638c70-5c61-11ee-a898-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%A9%F0%9F%87%AA
-trojan://7751e980-5c61-11ee-8b73-1239d0255272@51.38.65.155:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%AC%F0%9F%87%A7
+trojan://de784e20-7678-11ee-bf8f-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+1+%F0%9F%87%A9%F0%9F%87%AA
+trojan://ff3b7cc0-7678-11ee-bf24-1239d0255272@51.38.65.155:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#%D8%B3%D8%B1%D9%88%D8%B1+2+%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiIxMzAuMTYyLjQ3LjEyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiNWY3ZTkzMi1mNzMwLTRhZDItYjQyNS00MDk3N2I5ZGIzMzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvekJMUG91IiwicG9ydCI6IjY4NTQiLCJwcyI6Itiz2LHZiNixINm+2LTYqtuM2KjYp9mGIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-حمید اعتبار تا 08/4
+
+حمید اعتبار تا : 1402/09/07
