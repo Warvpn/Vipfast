@@ -1,0 +1,3 @@
+vless://5eeda0a8-6d65-4451-83cd-d97d2582e192@94.228.164.251:2083/?type=grpc&encryption=none&serviceName=G4VPN&sni=superuser.com&fp=chrome&security=reality&pbk=JBFeFJ1Av8dS8v2xnqAGt50R8lxljbWQc6vjBNa8fSI&sid=02c4ded8#USER-Amir.refigh
+trojan://79292b80-9687-11ee-a47f-1239d0255272@51.210.182.170:443/?type=tcp&security=tls&sni=speedtest.net#USER-Amir.refigh
+اعتبار تا 1402/10/18
