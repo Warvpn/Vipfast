@@ -1,6 +1,1 @@
-trojan://16ae7ac0-83df-11ee-9cb9-1239d0255272@15.204.240.119:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#US+%F0%9F%87%BA%F0%9F%87%B8+RM
-trojan://b6c37bb0-83de-11ee-97e9-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp&sni=speedtest.net,www.speedtest.net#FR+%F0%9F%87%AB%F0%9F%87%B7+RM
-trojan://d1124930-83de-11ee-b6af-1239d0255272@54.38.156.210:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#DE+%F0%9F%87%A9%F0%9F%87%AA+RM
-
-
-MTN irancell
+vless://36b217f9-3df6-48be-a02c-3112c5cbe491@94.228.164.251:8443?type=grpc&serviceName=G4VPN&mode=multi&security=reality&fp=chrome&pbk=d7fYjSill63ZfrmhLSzF4VO2kF7tuOBDNy9uak85zx0&sni=www.speedtest.net&sid=e25e47da&spx=%2F#USER-Layla
