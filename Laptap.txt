@@ -1,1 +1,1 @@
-vless://5d2da5cd-d150-42e3-a9be-bac1fab60939@94.228.164.251:2083/?type=grpc&encryption=none&serviceName=G4VPN&sni=superuser.com&fp=chrome&security=reality&pbk=JBFeFJ1Av8dS8v2xnqAGt50R8lxljbWQc6vjBNa8fSI&sid=02c4ded8#USER-Me-2
+vless://842d578b-3331-44ce-adf8-c5a375d5ae1c@94.228.164.251:8443/?type=grpc&encryption=none&serviceName=G4VPN&sni=www.speedtest.net&fp=chrome&security=reality&pbk=d7fYjSill63ZfrmhLSzF4VO2kF7tuOBDNy9uak85zx0&sid=e25e47da#User-Me
