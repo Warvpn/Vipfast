@@ -1,1 +1,1 @@
-vless://bfc7979c-b18b-4b3c-938d-de364ff003ce@94.228.164.251:8443?type=grpc&serviceName=G4VPN&mode=multi&security=reality&fp=chrome&pbk=d7fYjSill63ZfrmhLSzF4VO2kF7tuOBDNy9uak85zx0&sni=www.speedtest.net&sid=e25e47da&spx=%2F#USER-Fahmide2
+vless://f6499fbf-2de5-41cc-8141-210a842fba71@94.228.164.251:20165?type=grpc&serviceName=G4vpn&mode=multi&security=none#gRPC-Fateme
